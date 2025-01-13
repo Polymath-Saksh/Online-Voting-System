@@ -1,0 +1,35 @@
+.vote-page {
+    padding: 20px;
+  }
+  
+  .vote-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .vote-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .vote-page li {
+    margin-bottom: 10px;
+  }
+  
+  .vote-page button {
+    padding: 5px 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .vote-page button:hover {
+    background-color: #218838;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  

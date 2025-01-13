@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif; /* Consider a more modern font */
+  background-color: #f0f0f0; 
+  color: #444; /* Slightly darker text for better contrast */
+}
+
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #0096c7; /* A slightly lighter blue */
+  color: #fff;
+  padding: 15px 20px; /* Add some horizontal padding */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5rem; /* Slightly larger title */
+}
+
+header nav {
+  display: flex;
+  gap: 25px; 
+  margin-right: 20px; /* Adjust the value as needed */
+}
+
+header a {
+  color: inherit; /* Inherit the header's text color */
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px; 
+}
+
+th, td {
+  padding: 10px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ccc; 
+}
+
+tr:nth-child(even) {
+  background-color: #f8f8f8; 
+}
+
+th {
+  background-color: #e6e6e6; 
+  font-weight: bold;
+}
+
+/* Optional: Add a subtle hover effect to links */
+a:hover {
+  text-decoration: underline;
+}

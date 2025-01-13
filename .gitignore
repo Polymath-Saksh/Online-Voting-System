@@ -1,0 +1,29 @@
+frontend_voting\voting-app-frontend\node_modules
+voting-spring\.vscode
+voting-spring\HELP.md
+# Logs
+frontend_voting\logs
+*.log
+frontend_voting\npm-debug.log*
+frontend_voting\yarn-debug.log*
+frontend_voting\yarn-error.log*
+frontend_voting\pnpm-debug.log*
+frontend_voting\lerna-debug.log*
+
+frontend_voting\dist
+frontend_voting\dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+voting-spring\src\main\resources\application.properties
