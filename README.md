@@ -1,5 +1,4 @@
-# Online Voting System
-
+# Online Voting System ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) [![License: MIT][License-Badge]](LICENSE.md)
 ## Project Description
 The Online Voting System is a web application that allows users to register, log in, and vote for candidates in an election. The system includes both a frontend and a backend, providing a complete solution for managing elections online.
 
@@ -8,11 +7,11 @@ The Online Voting System is a web application that allows users to register, log
 - Admin dashboard for managing voters and candidates
 - Voter dashboard for viewing profile and voting
 - Real-time vote counting and results display
-- Secure authentication using JWT tokens
+- Secure authentication using JWT tokens ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ## Technologies Used
 - Frontend: React, Vite, React Router
-- Backend: Spring Boot, JPA, MySQL, JWT
+- Backend: Spring Boot, JPA, MySQL , JWT
 
 ## Setup Instructions
 
@@ -87,3 +86,14 @@ We welcome contributions to the Online Voting System project. To contribute, ple
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push them to your forked repository.
 4. Create a pull request with a detailed description of your changes.
+
+## Authors
+
+- [Saksham Kumar](https://github.com/Polymath-Saksh)
+- [Pranaya Dwivedi](https://github.com/dwpranaya)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[License-Badge]:https://img.shields.io/badge/License-MIT-blue.svg
