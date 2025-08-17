@@ -90,7 +90,7 @@ We welcome contributions to the Online Voting System project. To contribute, ple
 ## Authors
 
 - [Saksham Kumar](https://github.com/Polymath-Saksh)
-- [Pranaya Dwivedi](https://github.com/dwpranaya)
+- [Ankit Raj](https://github.com/ankitraj5670)
 
 ## License
 
